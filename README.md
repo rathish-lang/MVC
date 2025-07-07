@@ -1,6 +1,5 @@
 MVC 
 
-Web Application Project
 Overview
 This project is a web application designed to perform specific tasks, accessible over the internet using a web browser. The application follows the MVC (Model-View-Controller) architectural pattern, ensuring a clear separation of concerns and a more organized codebase. The application also utilizes a robust database to store and manage data efficiently.
 
