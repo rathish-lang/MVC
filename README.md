@@ -10,7 +10,7 @@ Responsive Design: The web interface is designed to be accessible and user-frien
 
 Technologies Used:
 C#
-ASP.NET MVC
+ASP.NET, MVC
 SQL
 
 Software:
